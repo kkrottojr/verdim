@@ -42,7 +42,9 @@ Todas as versões: [página de downloads](https://github.com/kkrottojr/verdim/re
 </p>
 
 - **Quanto posso gastar por dia** até o próximo salário
-- **Contas do mês** com lembrete no dia anterior e no vencimento
+- **Previsão do próximo mês** e **contas do mês** com data de vencimento no calendário (todo mês ou só uma vez), lembrete no dia anterior e no vencimento
+- **Salário no banco certo:** no dia do salário, às 17h, o app pergunta se já caiu e soma ao saldo da conta
+- **Transferência entre contas** e saldo que passa para o mês seguinte ao fechar o mês
 - **Cartão de crédito sob controle:** compras parceladas reservam o limite, e a fatura paga libera o limite
 - **Estatísticas:** comparação com o mês passado, onde você mais gastou e limites por categoria
 - **Privacidade:** seus dados ficam só no seu celular, sem cadastro e sem login
