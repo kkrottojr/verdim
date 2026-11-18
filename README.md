@@ -26,11 +26,12 @@ Todas as versões: [página de downloads](https://github.com/kkrottojr/verdim/re
 5. Se aparecer o aviso do **Google Play Protect** ("App não reconhecido" ou "App bloqueado"), toque em **Mais detalhes** e depois em **Instalar mesmo assim**.
 6. Pronto. Abra o Verdim pelo ícone verde com o "V".
 
-> **Por que aparecem esses avisos?** O Android mostra esses alertas para qualquer app instalado fora da Play Store. O Verdim não pede acesso a contatos, fotos, localização nem internet para funcionar.
+> **Por que aparecem esses avisos?** O Android mostra esses alertas para qualquer app instalado fora da Play Store. O Verdim não pede acesso a contatos, fotos nem localização. A internet só é usada para ver se existe versão nova.
 
 ### Já tem uma versão instalada?
 
-- **Atualizando o Verdim:** é só instalar o arquivo novo por cima. Seus dados continuam.
+- **A partir da 2.2, o próprio app avisa** quando sai versão nova: toque em **Atualizar agora** e depois em **Instalar**. Na primeira vez, o Android pode pedir para **permitir instalar apps do Verdim**.
+- **Vindo da 2.1 ou anterior:** baixe pelo link acima e instale por cima. Seus dados continuam.
 - **Se você instalou o antigo "JC Financeiro":** desinstale-o antes de instalar o Verdim.
 
 ## O que o Verdim faz
@@ -45,8 +46,9 @@ Todas as versões: [página de downloads](https://github.com/kkrottojr/verdim/re
 - **Cartão de crédito sob controle:** compras parceladas reservam o limite, e a fatura paga libera o limite
 - **Estatísticas:** comparação com o mês passado, onde você mais gastou e limites por categoria
 - **Privacidade:** seus dados ficam só no seu celular, sem cadastro e sem login
-- **Backup** pelo Google Drive, WhatsApp ou e-mail, **bloqueio com digital** e **modo escuro**
+- **Backup automático** na pasta *Downloads/Verdim*, com envio para o Google Drive ou WhatsApp, e **restauração** que encontra sozinha o último backup
+- **Bloqueio com digital**, **modo escuro** e **aviso de atualização** com instalação pelo próprio app
 
 ## Privacidade
 
-O Verdim guarda tudo no próprio aparelho. Nada é enviado para servidores. O backup só sai do celular quando você mesmo o compartilha.
+O Verdim guarda tudo no próprio aparelho. Nada é enviado para servidores. O backup fica no seu celular e só sai dele quando você mesmo o compartilha. A única conexão do app é com esta página, para ver se há versão nova.
