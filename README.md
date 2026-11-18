@@ -17,6 +17,8 @@ Todas as versões: [página de downloads](https://github.com/kkrottojr/verdim/re
 
 ## Como instalar
 
+<img src="imagens/07_como_instalar.jpg" alt="Passo a passo de instalação" width="300" align="right">
+
 1. Toque no link **Baixar Verdim.apk** acima, pelo celular.
 2. Quando o download terminar, toque em **Abrir** (ou abra o arquivo na pasta *Downloads*).
 3. Se aparecer *"Por segurança, seu telefone não tem permissão para instalar apps desta fonte"*, toque em **Configurações**, ative **Permitir desta fonte** e volte.
